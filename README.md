@@ -1,6 +1,6 @@
 # SaaS Revenue Analysis NEW.
 
-This dashboard, built in Tableau Public, visualizes key financial metrics for a SaaS business. It provides insights into revenue, paid users, and other KPIs across different locations, products, and time periods.
+# This dashboard, built in Tableau Public, visualizes key financial metrics for a SaaS business. It provides insights into revenue, paid users, and other KPIs across different locations, products, and time periods.
 
 Key Features:
 Total Revenue by Location and Product.
