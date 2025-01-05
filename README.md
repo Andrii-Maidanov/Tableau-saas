@@ -25,4 +25,4 @@ A dashboard is created to showcase the following insights:
 
 ## Tableau Dashboard
 
-The interactive Tableau dashboard can be accessed [here](https://public.tableau.com/views/DA_17351423473030/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+The interactive Tableau dashboard can be accessed [here](https://public.tableau.com/views/DA_saas_revenue_NEW/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
